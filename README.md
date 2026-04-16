@@ -9,7 +9,7 @@ A crowdsourced web application that helps users discover, rate, and share access
 - Maria Vegas – mvv22a@fsu.edu
 - Daniela Nunez – dn23e@fsu.edu
 
-Website: https://accessiblityfinder.xo.je
+Website: https://accessibilityfinder.infinityfreeapp.com
 
 ## Overview
 Accessibility Finder provides a centralized place where users can view accessibility ratings for locations and contribute their own experiences. The goal of the project is to improve the quality of life for individuals with disabilities by making accessibility information easy to find and community-driven.
